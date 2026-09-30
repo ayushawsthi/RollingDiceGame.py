@@ -33,22 +33,17 @@ This project was created as a beginner Python project to practice:
 
 Make sure Python 3 is installed on your computer.
 
-Clone the repository:
-
-```bash
-git clone https://github.com/YOUR-USERNAME/python-dice-roller.git
-```
 
 Navigate into the project folder:
 
 ```bash
-cd python-dice-roller
+DiceRollingGame.py
 ```
 
 Run the program:
 
 ```bash
-python dice_roller.py
+rollingdice.py
 ```
 
 ## 💻 Example
